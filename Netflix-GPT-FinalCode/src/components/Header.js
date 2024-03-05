@@ -83,7 +83,7 @@ const Header = () => {
             onClick={handleSignOut}
             className="ml-2 font-extrabold text-white"
           >
-            Signin
+            Sign out
           </button>
         </div>
       )}
