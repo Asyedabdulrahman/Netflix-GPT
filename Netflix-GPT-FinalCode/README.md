@@ -50,3 +50,10 @@ Before Start check once:
 1.always ensure your API keys
 2.ensure you installed firebase correctly if error occurs
 
+# starting a project
+npx create-react-app
+tailwind css
+react router
+firebase
+redux toolkit
+
