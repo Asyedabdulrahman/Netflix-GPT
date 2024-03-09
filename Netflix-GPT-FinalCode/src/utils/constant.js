@@ -24,4 +24,4 @@ export const SUPPORTED_LANGUAGES = [
   { identifier: "hindi", name: "हिंदी" },
 ];
 
-export const OPENAIKEY = "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";
+export const OPENAIKEY = "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";
